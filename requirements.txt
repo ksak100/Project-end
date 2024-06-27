@@ -6,4 +6,5 @@ tensorflow
 keras
 scikit-learn
 dill
+flask
 #-e .
