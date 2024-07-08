@@ -6,9 +6,9 @@ COPY . /app/
 
 RUN pip install -r requirements.txt
 
-EXPOSE 3000 
+EXPOSE 5000 
 
-CMD python ./app.py
+CMD ["python" , "app.py"]
 
 
 

@@ -2,8 +2,6 @@ numpy
 pandas
 seaborn
 matplotlib
-tensorflow
-keras
 scikit-learn
 dill
 flask
