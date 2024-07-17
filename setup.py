@@ -1,3 +1,5 @@
+## This file installs all the required packages from requirements.txt
+
 from setuptools import find_packages, setup
 from typing import List
 
