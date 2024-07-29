@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Student Marks Predictor is a simple web application designed to predict student marks based on various input features. The application leverages machine learning techniques to provide accurate predictions and is built using Python with Flask as the web framework.
+The Student Marks Predictor is a simple web application designed to predict student maths marks based on various input features. The application leverages machine learning techniques to provide accurate predictions and is built using Python with Flask as the web framework.
 
 ## Features
 
